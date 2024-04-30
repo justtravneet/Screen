@@ -12,11 +12,11 @@ const Hero = () => {
 
                 <div className='flex gap-4'> 
                        <button class="bg-purple-600 text-white  w-24 h-10 py-1 px-1 lg:px-7">
-                          Enroll
+                         <a href="http://"> Enroll</a>
                        </button>
 
                        <button class="bg-white  text-black  w-32 h-10 py-2 px-3 border-black border-2 lg:px-8 lg:w-40">
-                       Learn More
+                       <a href="http://">Learn More</a> 
                        </button>
                 </div>
          </div>

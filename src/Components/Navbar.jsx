@@ -11,10 +11,10 @@ function Navbar (){
 
 
   return (
-    <nav className='conatiner items-center p-3 bg-white flex justify-between mt-2'>
+    <nav className='conatiner bg-white items-center p-3 flex justify-between mt-2 shadow-xl border-b-3  lg:sticky top-0'>
 
      <a href="http://">
-       <p className='font-bold'>LOGO</p> 
+       <img width={60} src="./Layer_1.svg" alt="" /> 
      </a>
 
      <div id='nav-menu' className='navmenu flex absolute top-[64px]  flex-col gap-4 lg:relative lg:flex-row lg:top-0 lg:items-center lg:gap-6'>
@@ -25,11 +25,11 @@ function Navbar (){
 
             <div className='flex flex-col gap-2 lg:flex-row'>
                      <button class="bg-white  text-black py-2 px-4 border-black border-2 lg:px-7">
-                       Learn
+                      <a href="http://">Learn</a> 
                     </button>
                   
                     <button class="bg-black  text-white py-2 px-4 border-black border-2 lg:px-7">
-                       Sign Up
+                       <a href="http://">Sign Up</a>
                     </button>
             </div>
     </div>
