@@ -10,7 +10,8 @@ const Heroeight = () => {
                        <p className=' pl-2  w-64 text-sm'>“Screen Shiksha has transformed my career. The courses are top-notch and the instructors are highly knowledgeable.”</p>
                        <div className='flex gap-2 mb-2'>
                             <div className='pl-2'>
-                              <img  className=' rounded-full w-8 h-8 ' src="https://i.pinimg.com/originals/3a/25/d4/3a25d4c633cf0b4b8bb3af3adb91d9a4.jpg" alt="" />
+                            <img src="https://i.pinimg.com/originals/3a/25/d4/3a25d4c633cf0b4b8bb3af3adb91d9a4.jpg" alt="Round Image" class="rounded-full     w-9 h-9"/>
+
                            </div>
                          <div className=''>
                                   <div><p className='text-sm font-bold'>Mark Johnson</p></div>
@@ -24,7 +25,9 @@ const Heroeight = () => {
                        <p className='  w-64 text-sm pl-2'>“Screen Shiksha's web development course helped <br /> me land my dream job. Highly recommend it!...”</p>
                        <div className='flex gap-2 mb-2'>
                             <div className='pl-2'>
-                              <img  className=' rounded-full w-8 h-8 ' src="https://i.pinimg.com/originals/df/9a/91/df9a91a36e844ba1de7963e3f42069a9.png" alt="" />
+                              
+                              <img src="https://i.pinimg.com/originals/df/9a/91/df9a91a36e844ba1de7963e3f42069a9.png" alt="Round Image" class="rounded-full    w-9 h-9"/>
+
                            </div>
                          <div className=''>
                                   <div><p className='text-sm font-bold'>Demi</p></div>
@@ -37,7 +40,8 @@ const Heroeight = () => {
                        <p className='  w-64 text-sm pl-2'>“Screen Shiksha's game development <br /> course exceeded my expectations. <br /> The hands-on training was <br /> invaluable.”</p>
                        <div className='flex gap-2 mb-2'>
                             <div className='pl-2'>
-                              <img  className=' rounded-full w-8 h-8 ' src="https://i.pinimg.com/736x/f8/05/57/f8055726ab19474a098852068d43c890.jpg" alt="" />
+                            
+                              <img src="https://i.pinimg.com/736x/f8/05/57/f8055726ab19474a098852068d43c890.jpg" alt="Round Image" class="rounded-full    w-9 h-9"/>
                            </div>
                          <div className=''>
                                   <div><p className='text-sm font-bold'>Michael Clark</p></div>
@@ -53,7 +57,8 @@ const Heroeight = () => {
                        <p className=' pl-2  w-64 text-sm'>“Screen Shiksha has transformed my career. The courses are top-notch and the instructors are highly knowledgeable.”</p>
                        <div className='flex gap-2 mb-2'>
                             <div className='pl-2'>
-                              <img  className=' rounded-full w-8 h-8 ' src="https://i.pinimg.com/originals/3a/25/d4/3a25d4c633cf0b4b8bb3af3adb91d9a4.jpg" alt="" />
+                              
+                              <img src="https://i.pinimg.com/originals/3a/25/d4/3a25d4c633cf0b4b8bb3af3adb91d9a4.jpg" alt="Round Image" class="rounded-full    w-9 h-9"/>
                            </div>
                          <div className=''>
                                   <div><p className='text-sm font-bold'>Mark Johnson</p></div>
@@ -67,7 +72,8 @@ const Heroeight = () => {
                        <p className='  w-64 text-sm pl-2'>“Screen Shiksha's web development course helped <br /> me land my dream job. Highly recommend it!...”</p>
                        <div className='flex gap-2 mb-2'>
                             <div className='pl-2'>
-                              <img  className=' rounded-full w-8 h-8 ' src="https://i.pinimg.com/originals/df/9a/91/df9a91a36e844ba1de7963e3f42069a9.png" alt="" />
+                              
+                              <img src="https://i.pinimg.com/originals/df/9a/91/df9a91a36e844ba1de7963e3f42069a9.png" alt="Round Image" class="rounded-full    w-9 h-9"/>
                            </div>
                          <div className=''>
                                   <div><p className='text-sm font-bold'>Demi</p></div>
@@ -80,7 +86,8 @@ const Heroeight = () => {
                        <p className='  w-64 text-sm pl-2'>“Screen Shiksha's game development <br /> course exceeded my expectations. <br /> The hands-on training was <br /> invaluable.”</p>
                        <div className='flex gap-2 mb-2'>
                             <div className='pl-2'>
-                              <img  className=' rounded-full w-8 h-8 ' src="https://i.pinimg.com/736x/f8/05/57/f8055726ab19474a098852068d43c890.jpg" alt="" />
+                            
+                              <img src="https://i.pinimg.com/736x/f8/05/57/f8055726ab19474a098852068d43c890.jpg" alt="Round Image" class="rounded-full    w-9 h-9"/>
                            </div>
                          <div className=''>
                                   <div><p className='text-sm font-bold'>Michael Clark</p></div>

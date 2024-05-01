@@ -12,13 +12,13 @@ function Navbar (){
 
 
   return (
-    <nav className='conatiner bg-white items-center p-3 flex justify-between mt-2 shadow-xl border-b-3  lg:sticky top-0'>
+    <nav className= 'bg-white items-center   flex justify-between  drop-shadow-sm border-b-3  lg:sticky top-0'>
 
      <a href="http://">
-       <img width={80} src="./Layer_1.svg" alt="" /> 
+       <img width={80} className='ml-2 m-3 lg:w-[110px]' src="./Layer_1.svg" alt="" /> 
      </a>
 
-     <div id='nav-menu' className='navmenu flex absolute top-[100px]  flex-col gap-4 lg:relative lg:flex-row lg:top-0 lg:items-center lg:gap-6'>
+     <div id='nav-menu' className='navmenu mr-10 flex absolute top-[100px] left-[18px]  flex-col gap-4 lg:relative lg:flex-row lg:top-0 lg:items-center lg:gap-10'>
             <a className='hover:text-blue-600' href="http://">About Us</a>
             <button  data-bs-toggle="dropdown" aria-expanded="false" >
               <div className='flex hover:text-blue-600'>
@@ -32,20 +32,20 @@ function Navbar (){
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
             <a className='hover:text-blue-600' href="http://">Pricing</a>
-            <a className='hover:text-blue-600' href="http://">Services</a>
+            {/* <a className='hover:text-blue-600' href="http://">Services</a> */}
 
             <div className='flex flex-col gap-2 lg:flex-row'>
-                     <button class="bg-white  text-black py-2 px-4 border-black border-2 lg:px-7">
+                     <button class="bg-white  text-black py-1 px-3 border-black border-2 lg:px-7">
                       <a href="http://">Learn</a> 
                     </button>
                   
-                    <button class="bg-black  text-white py-2 px-4 border-black border-2 lg:px-7">
+                    <button class="bg-black  text-white py-1 px-3 border-black border-2 lg:px-7">
                        <a href="http://">Sign Up</a>
                     </button>
             </div>
     </div>
 
-    <div className='toggle-button lg:hidden'>
+    <div className='toggle-button lg:hidden mr-5'>
      <AlignJustify />   
     </div>
     </nav>

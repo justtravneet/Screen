@@ -14,9 +14,9 @@ const Herofive = () => {
 
                
                <div className='mt-10 flex flex-col lg:flex-row lg:mt-20 lg:justify-between'>
-                     <div className='flex flex-col gap-2 lg:w-72'>
+                     <div className='flex flex-col gap-3 lg:w-72'>
                         <a href="http://">
-                            <Building2 size={40} strokeWidth={2.75} />
+                        <img width={40} className=' lg:w-[50]' src="./building.svg" alt="" />
                         </a>
                         <p className='text-lg font-bold'>Learn from Industry Experts</p>
                         <p className=' text-sm font-thin'>Our trainers are professionals with extensive industry experience, providing you with practical insights and        
@@ -36,7 +36,7 @@ const Herofive = () => {
 
                      <div className='flex flex-col mt-10 lg:mt-0 gap-2 lg:w-72'>
                         <a href="http://">
-                        <MousePointerClick size={40} strokeWidth={2.75} />
+                         <img width={50} src="./interactive.svg" alt="" />
                         </a>
                         <p className='text-lg font-bold'>Learn from Industry Experts</p>
                         <p className=' text-sm font-thin'>Our trainers are professionals with extensive industry experience, providing you with practical insights and        
@@ -55,7 +55,7 @@ const Herofive = () => {
 
                      <div className='flex flex-col  mt-10 mb-4 lg:mb-0 lg:mt-0 gap-2  lg:w-72'>
                         <a href="http://">
-                        <Sun size={40} strokeWidth={2.75} />
+                        <img width={50} src="./interactive.svg" alt="" />
                         </a>
                         <p className='text-lg font-bold'>Learn from Industry Experts</p>
                         <p className=' text-sm font-thin'>Our trainers are professionals with extensive industry experience, providing you with practical insights and        

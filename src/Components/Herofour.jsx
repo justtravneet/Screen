@@ -4,7 +4,7 @@ const Herofour = () => {
   return (
     <div  className='conatiner flex  p-3 bg-white mt-5 lg:items-center justify-center gap-2 '>
                 <div className='flex lg:items-center lg:justify-center'>  
-                      <button class="bg-white  text-black   w-28 h-10 py-1 px-0 border-black border-2 lg:px-8 lg:w-40">
+                      <button class="bg-white  text-black   w-28 h-10 py-1 px-0 border-black border-2   lg:w-28">
                      <a href="http://">Learn More</a>  
                       </button>
                 </div>
