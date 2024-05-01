@@ -16,7 +16,7 @@ const Herosix = () => {
                 <h2 className='pl-2 text-lg font-bold lg:text-xl'>Master the Art of Web Design</h2>
                 <p className='pl-2 text-xs font-thin lg:text-base'>Learn the latest techniques and trends in web design</p>
 
-                <div className='flex gap-5 mb-2'>
+                <div className='flex gap-2 mb-2'>
                       <div className='pl-2'>
                         <img  className=' rounded-full w-8 h-8 ' src="https://i.pinimg.com/736x/01/e3/14/01e314bea311a73c585c8346f8b9f8e1.jpg" alt="" />
                       </div>
@@ -33,7 +33,7 @@ const Herosix = () => {
                 <h2 className='pl-2 text-lg font-bold lg:text-xl'>Master the Art of Web Development</h2>
                 <p className='pl-2 text-xs font-thin lg:text-base'>Learn the skills to build powerful and dynamic websites.</p>
 
-                <div className='flex gap-5 mb-2'>
+                <div className='flex gap-2  mb-2'>
                       <div className='pl-2'>
                         <img  className=' rounded-full w-8 h-8 ' src="https://i.pinimg.com/736x/01/e3/14/01e314bea311a73c585c8346f8b9f8e1.jpg" alt="" />
                       </div>

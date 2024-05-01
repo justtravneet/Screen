@@ -25,7 +25,7 @@ const Herofive = () => {
                           <div className='flex items-center hover:text-blue-600'>
                                         <div>
                                               <button class=  "text-blue-600 hover:text-blue-600    w-12 h-10 py-0 px-0 text-left ">
-                                               Join
+                                              <a href="http://">Join</a> 
                                              </button>
                                          </div>
                                          <div className='600 text-blue-600'><ChevronRight /></div>     
@@ -45,7 +45,7 @@ const Herofive = () => {
                           <div className='flex items-center hover:text-blue-600'>
                                         <div>
                                               <button class=  "text-blue-600 hover:text-blue-600    w-16 h-10 py-0 px-0 text-left ">
-                                               Enroll
+                                              <a href="http://">Enroll</a> 
                                              </button>
                                          </div>
                                          <div className='600 text-blue-600'><ChevronRight /></div>     
@@ -64,7 +64,7 @@ const Herofive = () => {
                           <div className='flex items-center hover:text-blue-600'>
                                         <div>
                                               <button class=  "text-blue-600 hover:text-blue-600   w-24 h-10 py-0 px-0 text-left ">
-                                               Get Started
+                                              <a href="http://"> Get Started</a>
                                              </button>
                                          </div>
                                          <div className='600 text-blue-600'><ChevronRight /></div>     
