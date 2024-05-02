@@ -2,9 +2,9 @@ import React from 'react'
 import {ChevronRight} from "lucide-react"
 const Herofour = () => {
   return (
-    <div  className='conatiner flex  p-3 bg-white mt-5 lg:items-center justify-center gap-2 '>
+    <div  className='px-[16px] lg:px-[48px] xl:px-[200px] flex  p-3 bg-white mt-5 lg:items-center justify-center gap-2 '>
                 <div className='flex lg:items-center lg:justify-center'>  
-                      <button class="bg-white  text-black   w-28 h-10 py-1 px-0 border-black border-2   lg:w-28">
+                      <button class="bg-white  text-black   w-24 h-10 py-1 px-0 border-black border-2   lg:w-28">
                      <a href="http://">Learn More</a>  
                       </button>
                 </div>

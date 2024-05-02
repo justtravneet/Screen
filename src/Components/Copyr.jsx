@@ -1,7 +1,7 @@
 import React from 'react'
 const Copyr = () => {
   return (
-    <div className='conatiner p-3   lg:p-10 flex flex-col lg:flex-row justify-between'>
+    <div className='px-[16px] lg:px-[48px]  xl:px-[200px]   lg:p-10 flex flex-col lg:flex-row justify-between'>
              <div>
                    <p className='text-sm lg:text-base  lg:pt-2'>© 2023 Screen Shiksha. All rights reserved.</p>
              </div>

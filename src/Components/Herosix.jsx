@@ -2,11 +2,11 @@ import React from 'react'
 
 const Herosix = () => {
   return (
-    <div  className='conatiner  p-3   lg:p-10 bg-white mt-5 '>
+    <div  className='px-[16px] lg:px-[48px] xl:px-[200px] py-4'>
         <div className='flex flex-col text-center gap-2' >
               <p className=' text-base font-semibold lg:text-lg'>Articles</p>
               <h3 className=' text-2xl font-bold lg:text-4xl '>Discover Our Featured Courses</h3>
-              <p className='text-xs font-thin lg:text-lg'>Explore our wide range of courses and start learning today.</p>
+              <p className='text-xs  lg:text-lg'>Explore our wide range of courses and start learning today.</p>
         </div>
 
         <div className='flex flex-col gap-10 lg:flex-row lg:justify-between  lg:gap-20 mt-10'>
@@ -50,12 +50,12 @@ const Herosix = () => {
             
         </div>
 
-        <div className='flex justify-center mt-8'>
+        {/* <div className='flex justify-center mt-8'>
                       <button class="bg-white  text-black hover:text-blue-500   w-24 h-10 py-2 px-1 border-black border-2 lg:px-8 lg:w-40">
                         <a href="http://">View all</a>
                        </button>
 
-        </div>
+        </div> */}
 
 
     </div>

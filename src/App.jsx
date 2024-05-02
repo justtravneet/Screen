@@ -27,7 +27,6 @@ function App() {
     
         <Navbar />
         <Hero />
-        {/* <Img /> */}
         <Herotwos />
         <Herothrees />
         <Herofour />
@@ -39,7 +38,7 @@ function App() {
         <Heroten />
         <Herofooter />
         <Copyr />
-        
+
 
    </div>
   )

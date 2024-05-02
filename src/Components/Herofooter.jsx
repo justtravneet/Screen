@@ -2,7 +2,7 @@ import React from 'react'
 import {Facebook ,Instagram ,Twitter ,Linkedin,Youtube} from "lucide-react"
 const Herofooter = () => {
   return (
-    <div className='conatiner p-3   lg:p-10 mt-10  '>
+    <div className='px-[16px] lg:px-[48px] xl:px-[200px]    py-10  '>
             <div className=' lg:flex justify-between mb-10'>
                    <div className='flex flex-col gap-3'>
                           <div><img src="./Layer_1.svg" alt="" /></div>

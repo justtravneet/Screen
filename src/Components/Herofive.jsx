@@ -2,13 +2,13 @@ import React from 'react'
 import {Building2 ,ChevronRight ,MousePointerClick ,Sun} from "lucide-react"
 const Herofive = () => {
   return (
-    <div className='conatiner  p-3 bg-white mt-5 '>
-               <div className='flex flex-col gap-2 text-start lg:flex-row lg:justify-between  lg:mt-10'>
-                      <div>
-                         <p className='text-2xl font-bold lg:text-4xl'>Experience Live Online Classes <br /> with Expert Trainers</p>
+    <div className='px-[16px] lg:px-[48px] xl:px-[200px] '>
+               <div className='flex flex-col gap-2 py-4 lg:flex-row lg:gap-10 justify-between'>
+                      <div className='lg:w-[520px]'>
+                         <p className='text-2xl font-bold lg:text-4xl'>Experience Live Online Classes  with Expert Trainers</p>
                       </div>
-                      <div className='pr-5'>
-                        <p className=' text-sm  lg:w-96 lg:text-base'>At Screen Shiksha, we offer high-quality professional training in UI/UX Design, Web Development, and Game Development. Our classes are conducted live online, ensuring interactive sessions and personalized guidance from our experienced trainers.</p>
+                      <div className=' lg:w-[400px]'>
+                        <p className='pl-1 text-sm  lg:w-96 lg:text-base'>At Screen Shiksha, we offer high-quality professional training in UI/UX Design, Web Development, and Game Development. Our classes are conducted live online, ensuring interactive sessions and personalized guidance from our experienced trainers.</p>
                       </div>
                </div>
 

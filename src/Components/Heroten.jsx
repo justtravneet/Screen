@@ -2,7 +2,7 @@ import React from 'react'
 import {Mail ,PhoneCall ,MapPin} from "lucide-react"
 const Heroten = () => {
   return (
-    <div className='conatiner p-3   lg:p-10 mt-10  bg-white'>
+    <div className='px-[16px]  lg:px-[48px]  xl:px-[200px] lg:p-10 mt-10  bg-white'>
           <div className='flex flex-col items-center gap-1'>
               <p className=' text-sm font-semibold'>Connect</p>
               <p className=' text-2xl font-bold lg:text-4xl'>Contact Us</p>
