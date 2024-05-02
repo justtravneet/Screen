@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div  className='conatiner  p-3 bg-white mt-80 gap-4 flex flex-col lg:gap-5 lg:pt-28 lg:pb-14  lg:flex-row  lg:justify-between   lg:mt-12'>
+    <div  className='conatiner  p-3  bg-white mt-80 gap-4 flex flex-col lg:gap-5 lg:pt-28 lg:pb-14  lg:flex-row  lg:justify-between   lg:mt-12'>
          <div className=' flex'>
             <h2 className=' text-4xl font-bold font-Times New Roman lg:text-4xl items-center'>Unlock Your Potential  With <br /> Live  Online Training</h2>
          </div>

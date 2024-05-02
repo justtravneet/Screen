@@ -2,8 +2,8 @@ import React from 'react'
 import {Building2 ,ChevronRight ,MousePointerClick ,Sun} from "lucide-react"
 const Herofive = () => {
   return (
-    <div className='conatiner  p-3 bg-white mt-5'>
-               <div className='flex flex-col gap-2 text-start lg:flex-row lg:justify-between lg:mt-10'>
+    <div className='conatiner  p-3 bg-white mt-5 '>
+               <div className='flex flex-col gap-2 text-start lg:flex-row lg:justify-between  lg:mt-10'>
                       <div>
                          <p className='text-2xl font-bold lg:text-4xl'>Experience Live Online Classes <br /> with Expert Trainers</p>
                       </div>
@@ -13,7 +13,7 @@ const Herofive = () => {
                </div>
 
                
-               <div className='mt-10 flex flex-col lg:flex-row lg:mt-20 lg:justify-between'>
+               <div className='mt-10 flex flex-col lg:flex-row lg:mt-20 lg:justify-between '>
                      <div className='flex flex-col gap-3 lg:w-72'>
                         <a href="http://">
                         <img width={40} className=' lg:w-[50]' src="./building.svg" alt="" />

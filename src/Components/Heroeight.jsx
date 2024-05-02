@@ -2,7 +2,7 @@ import React from 'react'
 
 const Heroeight = () => {
   return (
-    <div className='conatiner p-3   lg:p-10   bg-white flex flex-col gap-2'>
+    <div className='conatiner p-3   lg:p-10   bg-white flex flex-col gap-2 '>
            
            <div className='flex  justify-center  lg:justify-between gap-2 flex-wrap  '>
                  <div className='flex flex-col gap-3 w-96 lg:justify-around   lg:w-72 border-black border-2'>

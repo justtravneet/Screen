@@ -14,8 +14,8 @@ function Navbar (){
   return (
     <nav className= 'bg-white items-center   flex justify-between  drop-shadow-sm border-b-3  lg:sticky top-0'>
 
-     <a href="http://">
-       <img width={80} className='ml-2 m-3 lg:w-[110px]' src="./Layer_1.svg" alt="" /> 
+     <a href="http://" cla>
+       <img width={80} className='ml-2 m-3 lg:w-[110px] xl:ml-20' src="./Layer_1.svg" alt="" /> 
      </a>
 
      <div id='nav-menu' className='navmenu mr-10 flex absolute top-[100px] left-[18px]  flex-col gap-4 lg:relative lg:flex-row lg:top-0 lg:items-center lg:gap-10'>

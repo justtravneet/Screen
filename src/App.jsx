@@ -13,6 +13,7 @@ import Heronine from './Components/Heronine'
 import Heroten from './Components/Heroten'
 import Herofooter from './Components/Herofooter'
 import Copyr from './Components/Copyr'
+import Menubar from './Components/Menubar'
 // import Img from './Components/Img'
 
 
@@ -22,8 +23,8 @@ function App() {
 
 
   return (
-   <div className=' container mx-auto'>
-        
+   <div className=''>
+    
         <Navbar />
         <Hero />
         {/* <Img /> */}
@@ -38,6 +39,7 @@ function App() {
         <Heroten />
         <Herofooter />
         <Copyr />
+        
 
    </div>
   )
