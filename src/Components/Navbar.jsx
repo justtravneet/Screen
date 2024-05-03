@@ -13,8 +13,8 @@ function Navbar (){
 
   return (
  
-         <div className='  bg-white  '>
-              <div className='flex items-center  justify-between px-[16px] lg:px-[48px] xl:px-[190px] py-3'>
+         <div className='  bg-white border-b-2 '>
+              <div className='flex items-center  justify-between px-[16px] lg:px-[48px] xl:px-[190px] 2xl:px-[300px] py-3'>
                     <div>
                       <img className='h-[40px] lg:h-[50px]' src="./Layer_1.svg" alt="" />
                     </div>

@@ -8,6 +8,9 @@
 .content{
     transition: ease-in-out;
 }
+.imgs{
+    object-fit: cover;
+}
 @media screen and (max-width: 788px) {
     .items{
         position: absolute;

@@ -2,7 +2,7 @@ import React from 'react'
 import {Building2 ,ChevronRight ,MousePointerClick ,Sun} from "lucide-react"
 const Herofive = () => {
   return (
-    <div className='px-[16px] lg:px-[48px] xl:px-[200px] '>
+    <div className='px-[16px] lg:px-[48px] xl:px-[200px] 2xl:px-[300px] '>
                <div className='flex flex-col gap-2 py-4 lg:flex-row lg:gap-10 justify-between'>
                       <div className='lg:w-[520px]'>
                          <p className='text-2xl font-bold lg:text-4xl'>Experience Live Online Classes  with Expert Trainers</p>
