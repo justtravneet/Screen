@@ -13,7 +13,8 @@ import Heronine from './Components/Heronine'
 import Heroten from './Components/Heroten'
 import Herofooter from './Components/Herofooter'
 import Copyr from './Components/Copyr'
-import Menubar from './Components/Menubar'
+import Students from './Components/Students'
+
 // import Img from './Components/Img'
 
 
@@ -33,12 +34,14 @@ function App() {
         <Herofive />
         <Herosix />
         <Heroseven />
+        <Students />
         <Heroeight />
         <Heronine />
         <Heroten />
         <Herofooter />
         <Copyr />
-
+         
+        
 
    </div>
   )

@@ -9,11 +9,15 @@ const Heronine = () => {
                 <p className=' text-xs text-center lg:text-lg'>Find answers to common questions about our courses, platforms, and enrollment process.</p>
              </div>
  
-           <div className='flex flex-col gap-2 justify-center items-center  lg:w-[200px]'>
+           {/* <div className='flex flex-col gap-2 justify-center items-center  lg:w-[200px]'>
                    <Accordions question="How do i Enroll?" answer="Give the Answer" />
                    <Accordions question="How do i Enroll?" answer="Give the Answer" />
                    <Accordions question="How do i Enroll?" answer="Give the Answer" />
                    <Accordions question="How do i Enroll?" answer="Give the Answer" />
+           </div> */}
+
+           <div>
+            
            </div>
 
 
